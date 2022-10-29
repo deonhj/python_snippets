@@ -1,0 +1,1 @@
+data.set_index('col_name', drop=True, append=True, inplace=True)
