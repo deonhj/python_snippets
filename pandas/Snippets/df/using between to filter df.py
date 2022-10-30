@@ -1,0 +1,1 @@
+dataframe.loc[dataframe['fieldname'].between(20, 60)]
