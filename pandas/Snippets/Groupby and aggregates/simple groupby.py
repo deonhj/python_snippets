@@ -32,3 +32,5 @@ games = pd.read_csv(games_url)
 studios = games.loc[:, ['Genre', 'Publisher', 'Global_Sales']]
 
 studios.groupby('Publisher').sum(numeric_only=True).sort_values(by='Global_Sales', ascending=False)
+
+games.groupby('Year').sum()['Global_Sales'].nlargest(3)
