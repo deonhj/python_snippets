@@ -30,3 +30,5 @@ l = liberal_test.sort_values(by='Mid-Career Median Salary', ascending=False).ilo
 s = state_test.sort_values(by='Mid-Career Median Salary', ascending=False).iloc[:3, [0, 3]]  # [From Row 0:To Row 3, [Column 0, Column 3]]
 
 pd.concat([l, s], axis=1, keys=['Liberal Arts', 'State'])
+
+print('Done')
