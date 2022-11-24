@@ -1,1 +1,0 @@
-nutrition_tmp.loc[nutrition_tmp[nutrition_tmp['vitamin_c_mg'].between(20, 40)]['calories'].idxmin()]

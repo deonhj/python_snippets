@@ -1,1 +1,0 @@
-players.loc[players.position.isin(['LB', 'CB', 'RB'])]

@@ -1,1 +1,0 @@
-labeled_values.loc[lambda x: [True if i%2==0 else False for i in range(x.size)]]

@@ -1,1 +1,0 @@
-df.rename(columns={'weight': 'Weight (kg)'}, index={0: 'Pikachu'}, inplace=False)

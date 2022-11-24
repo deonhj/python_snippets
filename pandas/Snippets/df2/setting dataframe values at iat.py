@@ -1,1 +1,0 @@
-players.at[3, 'position'] = 'CM'

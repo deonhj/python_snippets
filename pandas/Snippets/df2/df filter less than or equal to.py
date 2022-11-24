@@ -1,1 +1,0 @@
-players.loc[players.age.le(25)]
