@@ -1,0 +1,1 @@
+df_mini.assign(career_goals=[12 ,67, 179, 49], nationality=['American', 'British', 'Turkish', 'Indian'])

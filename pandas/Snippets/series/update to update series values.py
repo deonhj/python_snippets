@@ -1,0 +1,1 @@
+data.update(pd.Series(data=[200, 20], index=['Albania', 'Algeria']))

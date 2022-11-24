@@ -1,0 +1,1 @@
+players.drop(index=[2, 10, 21], columns='market_value')
