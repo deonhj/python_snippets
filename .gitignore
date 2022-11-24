@@ -83,7 +83,7 @@ target/
 .ipynb_checkpoints
 
 # custom
-betaversion/
+betaversion/*
 
 # IPython
 profile_default/
